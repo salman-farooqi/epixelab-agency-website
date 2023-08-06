@@ -1,0 +1,105 @@
+.btn {
+    background-color: var(--clr-brand-primary);
+    color: var(--clr-neutral-white);
+    border-radius: 0.7rem;
+    padding: 0.85rem 2.2rem;
+}
+
+.btn-secondary {
+    color: var(--clr-heading-small);
+    border: 1px solid var(--clr-heading-small);
+    border-radius: 1.9rem;
+    padding: 0.95rem 2.8rem;
+    font-family: "DM Sans", sans-serif;
+    font-size: 1.3rem;
+    font-weight: 700;
+}
+
+.heading-primary {
+    color: var(--clr-neutral-dark-grey);
+    font-size: 4.5rem;
+    font-weight: 900;
+    line-height: 5.8rem;
+}
+
+.heading-secondary {
+    color: var(--clr-neutral-dark-grey);
+    font-size: 3.25rem;
+    font-weight: 700;
+    line-height: 1.8rem;
+}
+
+.heading-tertiary {
+    color: var(--clr-neutral-black);
+    font-size: 2.25rem;
+    font-weight: 700;
+    line-height: 1.8rem;
+}
+
+.heading-medium {
+    color: var(--clr-heading-small);
+    font-family: "DM Sans", sans-serif;
+    font-size: 1.9rem;
+    font-weight: 700;
+    line-height: 2rem;
+}
+
+.heading-small {
+    color: var(--clr-neutral-black);
+    font-size: 1.4rem;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.text-footer {
+    color: var(--clr-heading-small);
+    font-family: "DM Sans", sans-serif;
+    font-size: 1.6rem;
+    font-weight: 600;
+}
+
+.text-span {
+    color: var(--clr-neutral-grey);
+    font-size: 0.875rem;
+    font-weight: 700;
+    line-height: 1.8rem;
+    letter-spacing: 0.4rem;
+    text-transform: uppercase;
+}
+
+.text-span-small {
+    color: var(--clr-neutral-grey);
+    font-size: 0.875rem;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.text-bold {
+    color: var(--clr-neutral-black);
+    font-family: "Roboto", sans-serif;
+    font-size: 1.5rem;
+    font-weight: 400;
+    line-height: 1.8rem;
+}
+
+.paragraph-bold {
+    color: var(--clr-neutral-black);
+    font-size: 1.8rem;
+    font-weight: 500;
+    line-height: 1.8rem;
+}
+
+.paragraph-medium {
+    color: var(--clr-neutral-black);
+    font-size: 1.3rem;
+    font-weight: 500;
+    line-height: 1.8rem;
+}
+
+.paragraph-small {
+    color: var(--clr-neutral-dark-grey);
+    font-family: "DM Sans", sans-serif;
+    font-size: 1.3rem;
+    font-weight: 600;
+    line-height: 1.8rem;
+}
